@@ -165,7 +165,6 @@ def position_birth_search(position, age, cur, conn):
     return lst1
 
 
-    pass
 
 
 # [EXTRA CREDIT]
